@@ -1,0 +1,7 @@
+{
+  "name": "Chronos Minimalist World Clock",
+  "description": "A sophisticated, minimalist world clock featuring physically accurate analog movements and AI-powered timezone intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
